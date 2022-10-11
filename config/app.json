@@ -1,0 +1,29 @@
+{
+  "app_name": "baseapp",
+  "app_mode": "debug",
+  "app_host": "localhost",
+  "app_port": "8090",
+  "sms":{
+    "sign_name":"1145978247771594752",
+    "template_code":"1305041069318094848",
+    "app_ak":"wkJupck8Ylduede0ny9KSsIG4vqwDkelgBfejKSv",
+    "app_sk":"i4UrEdihv93LUun8MMG_OCAcGQHwPU6ZiHq5ijMg"
+  },
+  "database": {
+    "driver": "mysql",
+    "user": "root",
+    "password": "root123",
+    "host": "127.0.0.1",
+    "port": "3306",
+    "db_name": "cloudrestaurant",
+    "charset": "utf8",
+    "show_sql": true
+  },
+  "redis_config": {
+    "addr": "127.0.0.1",
+    "port": "6379",
+    "password": "",
+    "db": 0
+  }
+
+}
