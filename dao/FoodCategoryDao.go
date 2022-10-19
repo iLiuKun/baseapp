@@ -10,7 +10,8 @@ type FoodCategoryDao struct {
 }
 
 //实例化Dao对象
-//func NewFoodCategoryDao()*FoodCategoryDao{
+//func NewFoodCategoryDao()*FoodCategoryDao{	
+	
 //	return  &FoodCategoryDao{tool.DbEngine}
 //}
 
